@@ -1,0 +1,30 @@
+* {
+    /* outline: 1px dotted blue; */
+}
+
+.submit_button {
+    text-align: right;
+}
+
+h2 {
+    padding: 10px 0px;
+}
+
+ul {
+    display: block;
+    width: 400px;
+    margin: 0px auto;
+}
+
+.navbar {
+    margin: 5px;
+    border-bottom: 2px solid black;
+}
+
+#favorite {
+    font-style: italic;
+}
+
+a#favorite {
+    color: green;
+}
